@@ -3,4 +3,6 @@ add a second line
 add a second line
 add a fourth line
 add another line
-add sixth line 
+add a sixth line
+add a seventh line
+welcome to study git qzwd 
